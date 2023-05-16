@@ -350,3 +350,25 @@ try {
 
 console.log('após ao try/catch')
 O try irá executar a função, enquanto o catch vai capturar o erro e atribuir à variável e, que só existe dentro do catch. Após isso, mesmo com o erro, nossa aplicação não será interrompida por completo.
+
+Estrutura de repeticao
+
+// for
+//break-para a execucao do loop
+// continue - pula a execucao do momento
+
+A estrutura de repetição for tem a seguinte sintaxe:
+
+for(inicialização de uma variável; condição de continuação para o loop; expressão final)
+
+//while
+
+usar quando nao saber o momento da parada
+
+// for ...of
+
+serve tanto para string como para array
+
+// for ...in
+
+vai criar um loop em cima de um objeto
